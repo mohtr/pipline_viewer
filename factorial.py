@@ -16,6 +16,6 @@ def factorial(n):
 def sum_factorial():
     for i in range(50):
         final_list.append(factorial(i))
-    result = sum(final_list)
-
-    print("Final SUM is {result}")
+    return sum(final_list)
+result = sum_factorial()
+print("Final SUM is {result}")
