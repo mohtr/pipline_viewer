@@ -1,8 +1,6 @@
 import time
 
 final_list = []
-
-
 def factorial(n):
     time.sleep(0.1)
 
