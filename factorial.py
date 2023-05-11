@@ -18,4 +18,4 @@ def sum_factorial():
         final_list.append(factorial(i))
     result = sum(final_list)
 
-    print("Final SUM = {result}")
+    print("Final SUM is {result}")
