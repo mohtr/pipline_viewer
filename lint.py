@@ -1,5 +1,4 @@
 import sys
-
 from pylint import lint
 
 THRESHOLD = 5
