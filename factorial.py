@@ -10,7 +10,6 @@ def factorial(n):
         factorial = factorial * i
     return factorial
 
-
 def sum_factorial():
     for i in range(50):
         final_list.append(factorial(i))
